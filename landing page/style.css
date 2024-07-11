@@ -1,0 +1,18 @@
+
+
+header{
+    margin: 0;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#im1{
+    background-attachment:fixed;
+    background-size: 100% 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.service{
+    text-align: center; 
+}
